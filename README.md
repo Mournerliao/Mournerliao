@@ -1,21 +1,4 @@
 ### Hi there, I am Mourner.
 
-<details open>
-  <summary><b>ADE</b></summary>
-  <br>
-  <img
-    src="https://llm-usage.vercel.app/widget.svg?group_by=source&amp;theme=auto&amp;v=3"
-    alt="ADE 每日用量"
-    width="560"
-  >
-</details>
-
-<details>
-  <summary><b>模型</b></summary>
-  <br>
-  <img
-    src="https://llm-usage.vercel.app/widget.svg?group_by=model&amp;theme=auto&amp;v=3"
-    alt="模型每日用量"
-    width="560"
-  >
-</details>
+<img src="https://raw.githubusercontent.com/Mournerliao/llm-usage/main/assets/widget-light.svg#gh-light-mode-only" alt="本周 LLM 用量" width="760">
+<img src="https://raw.githubusercontent.com/Mournerliao/llm-usage/main/assets/widget-dark.svg#gh-dark-mode-only" alt="本周 LLM 用量" width="760">
